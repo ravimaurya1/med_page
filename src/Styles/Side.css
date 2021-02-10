@@ -1,0 +1,37 @@
+.side button {
+  width: 5rem;
+  height: 2rem;
+  background-color: #24aeb1;
+  font-weight: 700;
+  color: white;
+  border-style: none;
+  border-radius: 0.5rem;
+  margin-top: 1rem;
+}
+.side h5 {
+  color: grey;
+}
+.check {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.side input {
+  border-style: dotted;
+  width: 100%;
+}
+
+.offer {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}

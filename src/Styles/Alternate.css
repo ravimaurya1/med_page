@@ -1,0 +1,29 @@
+.alternate {
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}
+
+.leftmed h3 {
+  cursor: pointer;
+}
+.leftmed p {
+  font-size: 0.9rem;
+}
+.alternatemed {
+  display: flex;
+}
+.leftmed {
+  width: 70%;
+  margin-right: 0.9rem;
+}
+.rightmed {
+  width: 25%;
+}
+.rightmed img {
+  width: 35%;
+  height: 20%;
+  margin-top: 4rem;
+  margin-left: 2rem;
+}

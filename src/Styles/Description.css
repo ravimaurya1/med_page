@@ -1,0 +1,32 @@
+.description {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}
+.text {
+  padding-top: 1rem;
+}
+
+.button-desc {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}
+
+.buttons button {
+  width: 25%;
+  height: 3rem;
+}
+.active {
+  background: white;
+  border-style: none;
+}
+
+.disclaimer {
+  padding: 2rem;
+  border-radius: 1rem;
+  margin: 1rem;
+  background: white;
+}

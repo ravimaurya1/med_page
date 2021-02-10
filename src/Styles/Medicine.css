@@ -1,0 +1,48 @@
+.img-details {
+  display: flex;
+  justify-content: space-between;
+  background: white;
+  margin: 1rem;
+}
+.img-details h4 {
+  color: grey;
+}
+.img-details img {
+  margin-right: 1.4rem;
+}
+.details {
+  padding: 2rem;
+}
+.bottom {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  background: white;
+  margin-top: 0rem;
+  margin-top: -1rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.bottom button {
+  width: 7rem;
+  height: 2.5rem;
+  background-color: #24aeb1;
+  font-weight: 700;
+  color: white;
+  border-style: none;
+  border-radius: 0.5rem;
+}
+.qnt select {
+  width: 5rem;
+  height: 2.1rem;
+  font-size: 1.1rem;
+}
+.qnt label {
+  font-size: 1.3rem;
+  margin-right: 1rem;
+}
+
+img {
+  height: 170px;
+}
